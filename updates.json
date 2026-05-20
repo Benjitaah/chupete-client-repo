@@ -1,6 +1,8 @@
 {
   "launcher_version": "1.0.0",
   "launcher_url": "https://github.com/Benjitaah/chupete-client-repo/raw/main/launcher.zip",
+  "version_minecraft": "1.20.1-fabric",
+  "fabric_json_url": "https://github.com/Benjitaah/chupete-client-repo/raw/main/versions/1.20.1-fabric/1.20.1-fabric.json",
   "mods": [
     { "name": "sodium.jar", "url": "https://github.com/Benjitaah/chupete-client-repo/raw/main/mods/sodium.jar" },
     { "name": "lithium.jar", "url": "https://github.com/Benjitaah/chupete-client-repo/raw/main/mods/lithium.jar" }
