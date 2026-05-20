@@ -1,7 +1,8 @@
 {
   "launcher_version": "1.0.0",
   "launcher_url": "https://raw.githubusercontent.com/Benjitaah/chupete-client-repo/main/launcher.zip",
-  "version_minecraft": "1.20.1-fabric",
+  "version_minecraft": "1.20.1",
+  "es_fabric": true,
   "fabric_json_url": "https://raw.githubusercontent.com/Benjitaah/chupete-client-repo/main/versions/1.20.1-fabric/1.20.1-fabric.json",
   "mods": []
 }
