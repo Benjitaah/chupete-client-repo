@@ -9,18 +9,6 @@
     "game": [],
     "jvm": ["-DFabricMcEmu= net.minecraft.client.main.Main "]
   },
-  "downloads": {
-    "client": {
-      "sha1": "413e1141df90437435f30cb85926c043e71d3d66",
-      "size": 30510659,
-      "url": "https://launcher.mojang.com/v1/objects/413e1141df90437435f30cb85926c043e71d3d66/client.jar"
-    },
-    "server": {
-      "sha1": "841dd1d73ab8e08da09033235b6ab7cb2e1e75a6",
-      "size": 39598274,
-      "url": "https://launcher.mojang.com/v1/objects/841dd1d73ab8e08da09033235b6ab7cb2e1e75a6/server.jar"
-    }
-  },
   "libraries": [
     { "name": "org.ow2.asm:asm:9.6", "url": "https://maven.fabricmc.net/" },
     { "name": "org.ow2.asm:asm-analysis:9.6", "url": "https://maven.fabricmc.net/" },
